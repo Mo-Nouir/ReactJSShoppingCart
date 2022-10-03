@@ -2,6 +2,7 @@
 
 example of shopping cart implemented in react.js and redux.js
 
+![Screen](ScreenShot.png "ScreenShot")
 
 
 ## getting started
@@ -22,6 +23,4 @@ npm start
 ## TODO
 - add reducers and selectors unit tests
 
-* * *
-author: Kris Urbas [@krzysu](https://twitter.com/krzysu)   
-licence: MIT
+
