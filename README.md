@@ -2,7 +2,7 @@
 
 example of shopping cart implemented in react.js and redux.js
 
-![screen shot](https://github.com/MoNouir/ReactJSShopingCart/ScreenShot.PNG?raw=true)
+![screen shot](https://github.com/Mo-Nouir/ReactJSShoppingCart/blob/main/ScreenShot.PNG)
 
 
 ## getting started
