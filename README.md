@@ -2,7 +2,7 @@
 
 example of shopping cart implemented in react.js and redux.js
 
-![Screen](./ScreenShot.png "ScreenShot")
+(./ScreenShot.png "ScreenShot")
 
 
 ## getting started
